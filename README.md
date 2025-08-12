@@ -6,14 +6,15 @@ Test your typing skills, race against the clock, and see how many words you can 
 ---
 
 ## 🎮 Live Demo
-[Play AlphaBattle](https://your-username.github.io/AlphaBattle/)  
-*(Replace with your actual GitHub Pages link)*
+[Play AlphaBattle](https://premkeshri.github.io/AlphaBattle/)  
+
 
 ---
 
 ## 📸 Preview
-![Game Screenshot](assets/screenshot.png)  
-*(Add your screenshot in the assets folder and update the path)*
+![Game Screenshot](<img width="1917" height="915" alt="Screenshot 2025-08-12 093044" src="https://github.com/user-attachments/assets/4cd0eb85-6af3-4c5e-bdaf-b1b3d5d0110c" />
+)  
+
 
 ---
 
@@ -49,5 +50,5 @@ Test your typing skills, race against the clock, and see how many words you can 
 ## 📦 Installation
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/AlphaBattle.git
+git clone https://github.com/premkeshri/AlphaBattle.git
 
