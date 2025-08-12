@@ -5,11 +5,6 @@ Test your typing skills, race against the clock, and see how many words you can 
 
 ---
 
-## 🎮 Live Demo
-[Play AlphaBattle](https://premkeshri.github.io/AlphaBattle/)  
-
-
----
 
 ## 📸 Preview
 ![Game Screenshot](<img width="1917" height="915" alt="Screenshot 2025-08-12 093044" src="https://github.com/user-attachments/assets/4cd0eb85-6af3-4c5e-bdaf-b1b3d5d0110c" />
